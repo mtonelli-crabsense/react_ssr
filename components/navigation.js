@@ -4,7 +4,7 @@ const Navigation = () => {
     return(
         <ul>
             <li>
-                <Link href="/git">
+                <Link href="/">
                     <a>Home</a>
                 </Link>
             </li>
